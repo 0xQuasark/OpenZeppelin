@@ -1,0 +1,15 @@
+{
+  "name": "openzeppelin-testing",
+  "version": "1.0.0",
+  "description": "OpenZeppelin provides security products to build, automate, and operate decentralized applications. It is a library for secure smart contract development built on Solidity. It's a great choice for developers looking to ensure their project's security and reliability.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.2",
+    "hardhat": "^2.22.3"
+  }
+}
